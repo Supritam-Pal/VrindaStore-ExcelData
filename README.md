@@ -1,6 +1,6 @@
-# 📊 Vrinda Store Annual Report 2022 - Excel Dashboard
+# 📊 Vrinda Store Annual Report 2025 - Excel Dashboard
 
-This project is a comprehensive Excel-based dashboard that visualizes the annual sales performance of **Vrinda Store** for the year 2022. It is designed to provide insightful analytics across different sales dimensions including geography, gender, channels, and more.
+This project is a comprehensive Excel-based dashboard that visualizes the annual sales performance of **Vrinda Store** for the year 2025. It is designed to provide insightful analytics across different sales dimensions including geography, gender, channels, and more.
 
 ![Dashboard Preview](./Exscel-project-Picture.png)
 
