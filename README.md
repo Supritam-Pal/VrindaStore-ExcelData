@@ -1,5 +1,8 @@
 # 📊 Vrinda Store Annual Report 2025 - Excel Dashboard
 
+<img width="1508" height="636" alt="Screenshot 2026-06-12 142704" src="https://github.com/user-attachments/assets/8b016447-7d99-4514-9ea6-8edce0c1130b" />
+
+
 This project is a comprehensive Excel-based dashboard that visualizes the annual sales performance of **Vrinda Store** for the year 2025. It is designed to provide insightful analytics across different sales dimensions including geography, gender, channels, and more.
 
 ![Dashboard Preview](./Exscel-project-Picture.png)
